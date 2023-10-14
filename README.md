@@ -1,2 +1,1 @@
-# web-browser-engineering
-Web browser engineering code
+# web browser written in electron
